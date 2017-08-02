@@ -1,0 +1,101 @@
+# Copyright (C) 2015 Go To Top Button
+# This file is distributed under the same license as the Go To Top Button package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Go To Top Button 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/gototop\n"
+"POT-Creation-Date: 2015-06-09 06:32:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: gtt.php:78
+msgid "Go-To-Top Button settings"
+msgstr ""
+
+#: gtt.php:78
+msgid "Go-To-Top Button"
+msgstr ""
+
+#: gtt_settings.php:20
+msgid "Settings saved"
+msgstr ""
+
+#: gtt_settings.php:20
+msgid "Hide this message"
+msgstr ""
+
+#: gtt_settings.php:30
+msgid "Button settings"
+msgstr ""
+
+#: gtt_settings.php:38
+msgid "Button color"
+msgstr ""
+
+#: gtt_settings.php:44
+msgid "Arrow color"
+msgstr ""
+
+#: gtt_settings.php:50
+msgid "Transparency"
+msgstr ""
+
+#: gtt_settings.php:56
+msgid "Button size"
+msgstr ""
+
+#: gtt_settings.php:62
+msgid "Border radius"
+msgstr ""
+
+#: gtt_settings.php:68
+msgid "Arrow type"
+msgstr ""
+
+#: gtt_settings.php:102
+msgid "Button location"
+msgstr ""
+
+#: gtt_settings.php:105
+msgid "Bottom Right"
+msgstr ""
+
+#: gtt_settings.php:106
+msgid "Bottom Left"
+msgstr ""
+
+#: gtt_settings.php:107
+msgid "Top Right"
+msgstr ""
+
+#: gtt_settings.php:108
+msgid "Top Left"
+msgstr ""
+
+#: gtt_settings.php:115
+msgid "Save Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Go To Top Button"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpcode.ru/gototop"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Smoothly scroll to the top of Webpage"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "artalex"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wpcode.ru"
+msgstr ""
